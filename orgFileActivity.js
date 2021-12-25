@@ -1,4 +1,4 @@
-console.log();
+
 
 let fs = require("fs");
 let path = require("path");
@@ -106,4 +106,3 @@ function helpFun() {
             3. node hello.js help 
     `);
 }
-console.log();
